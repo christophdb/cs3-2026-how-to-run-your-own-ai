@@ -152,7 +152,7 @@ In summary: anyone can set up the server. The real work is in the fine-tuning an
 # Then We Wanted More
 
 <!--
-Up to this point it sounds like a success story. Self-hosting works, data stays on your own server, all good. But then we wanted more.
+Up to this point it sounds like a success story. Self-hosting works, data stays on our own server, all good. But then we wanted more.
 -->
 
 ---
@@ -302,7 +302,7 @@ Gemma 3 12B fails at the chatbot on two fronts. First: reasoning capability. MCP
 
 - **Process a row**
 - Self-hosted **Gemma 3 12B**
-- Data stays on your server
+- Data stays on our server
 - Background processing
 - Included in Enterprise plan
 
